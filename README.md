@@ -7,6 +7,8 @@ I'm Paige, a recent graduate from Flatiron School, where I sharpened my skills i
 - Programming Languages: Javascript, Ruby, Python
 - Web Technologies: React, Node.js, Express.js, HTML, CSS,
 
+
+
 ![My stats](https://github-readme-stats.vercel.app/api?username=paigetetz&show_icons=true&theme=rose_pine)
 
 ![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paigetetz&layout=compact&theme=rose_pine)
