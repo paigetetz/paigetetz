@@ -1,16 +1,8 @@
 ### Hi there 👋
-https://media.licdn.com/dms/image/D4E16AQHbM47DnDTgBA/profile-displaybackgroundimage-shrink_350_1400/0/1677006154332?e=1686787200&v=beta&t=14rc8QzeWUKNZ1tCTVhmIzCCLU4G8FpwuEPlBb9YplM
+Hi there! :wave: I'm Paige, a recent graduate from Flatiron School, where I sharpened my skills in software development. I'm passionate about learning and expanding my knowledge in the world of web development. Lately, I've been focusing on mastering the MERN stack (MongoDB, Express, React, and Node.js) to build modern, scalable web applications.
 
-**paigetetz/paigetetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-:computer: About Me
-:mortar_board: I studied at The Ohio State University where I obtained a Bachelor of Arts in Mandarin Chinese.
-- 🌱 I’m currently learning the MERN stack. 
--😄 Pronouns: She/ Her/ Her's
-- ⚡ Fun fact: ...
-
-:hammer_and_wrench: Technologies & Tools
+##:hammer_and_wrench: Technologies & Tools
 
 - Programming Languages: Javascript, Ruby, Python
 - Web Technologies: React, Node.js, Express.js, HTML, CSS,
@@ -18,3 +10,7 @@ Here are some ideas to get you started:
 ![My stats](https://github-readme-stats.vercel.app/api?username=paigetetz&show_icons=true&theme=rose_pine)
 
 ![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paigetetz&layout=compact&theme=rose_pine)
+
+##:handshake: Let's Connect!
+Check out my [portfolio site](https://www.paigetetzlaff.com/)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/paigetetzlaff/) or follow me on [Medium](https://medium.com/@paigetetz) for blog posts
