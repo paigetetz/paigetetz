@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - Programming Languages: Javascript, Ruby, Python
 - Web Technologies: React, Node.js, Express.js, HTML, CSS,
 
-https://github-readme-stats.vercel.app/api?username=paigetetz&show_icons=true&theme=rose_pine
-[[Paige's GitHub stats](https://github-readme-stats.vercel.app/api?username=paigetetz)](https://github.com/paigetetz/github-readme-stats)
+![My stats](https://github-readme-stats.vercel.app/api?username=paigetetz&show_icons=true&theme=rose_pine)
 
-
-[Your GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paigetetz&layout=compact&theme=rose_pine)
+![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paigetetz&layout=compact&theme=rose_pine)
